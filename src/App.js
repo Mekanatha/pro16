@@ -10,8 +10,8 @@ import {
 
 // Import page components
 import Home from "./Home";
-import About from "./Aboutus";
-import Contacts from "./Contactsus";npm
+import About from "./About";
+import Contacts from "./Contacts";
 
 function App() {
 
